@@ -770,7 +770,7 @@ body {
 }
 .item-gallery__title {
   font-weight: 500;
-  font-size: 1.125;
+  font-size: 1.125rem;
   line-height: 1.55rem;
 }
 .item-gallery__text {
